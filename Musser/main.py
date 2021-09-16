@@ -63,6 +63,7 @@ s('cls')
 
 print(colored('successful', "green"))
 
+sleep(1.50)
 s('cls')
 
 print(colored("""
